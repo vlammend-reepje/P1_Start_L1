@@ -14,5 +14,5 @@ Any changes there might disrupt the workflow, which will lead to a lot of confus
 ## Code formatting:
 Please respect the following format rules in our Python code which is seen by students:
 - **Dutch variable & function names**: we want to prevent a students mastery of English being a barrier to learning.
-- **Snake_Case**: we follow the Python standard of snake_casing.
+- **snake_case**: we follow the Python standard of snake_casing.
 - **Please do not start file names with a number**: This complicates things for replit (some students use this instead of pycharm).
