@@ -10,3 +10,6 @@
 #
 # Voorbeelduitvoer:
 # De totale prijs bedraagt 31.65 euro.
+prijs_per_ticket = float( input("hoeveel kost 1 ticket: "))
+aantal_mensen = int(input("met hoe veel mensen ga je? "))
+print("dat grapje kost jou. ", prijs_per_ticket * aantal_mensen)
